@@ -1,0 +1,10 @@
+{ 
+    "name": "vendor/composer",
+    "description": "jeff",
+    "require": {
+        "symfony/panther": "^0.7.1",
+        "fabpot/goutte": "^4.0",
+        "nesk/puphpeteer": "^2.0",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
